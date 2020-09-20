@@ -5,6 +5,13 @@ Hi and welcome!
 I am full-time software programmer and free-time game prototype programmer.
 
 
+## Social Links
+
+- LinkedIn: https://www.linkedin.com/in/david-erben-6ba814164/
+- Website: https://www.graymadness.net/
+- Discord: https://discord.gg/ejShm4Z
+- Twitch: https://www.twitch.tv/graymadness
+
 ## Programming Languages
 
 Favorite:
@@ -16,6 +23,7 @@ I also do other IT languages, not limited to programming (SQL, JavaScript) and e
 I prefer GIT for versioning, especially from console ([Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on linux, [Git Bash](https://gitforwindows.org/) on Windows).
 
 I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) (not paid promotion).
+
 
 ## Personal Projects
 - [AWEngine](https://github.com/graymadness/AWEngine) - C++20 3D [Vulkan](https://www.khronos.org/vulkan/) Game Engine
