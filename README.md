@@ -35,3 +35,15 @@ Ordered by priority.
 
 As you can see, I like user-generated content.
 I have no released games as I enjoy prototyping.
+
+### Roadmap
+
+|  Deadline  | Project  | Description |
+|:-----------|----------|-------------|
+| 2020-11    | Mobile Game | Prototype a mobile game
+| 2020-12    | AWEngine | 3D renderer
+| 2021-01    | AWEngine | 2D renderer
+| 2021-03    | Voxelite | Connect to AWEngine, render 3D world
+| 2021-04    | Voxelite | Entities + animations
+| 2021-05    | Voxelite | Multiplayer
+| 2021-06    | Voxelite | JavaScript prototype
