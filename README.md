@@ -12,6 +12,7 @@ I am full-time software programmer and free-time game prototype programmer.
 - Discord: https://discord.gg/ejShm4Z
 - Twitch: https://www.twitch.tv/graymadness
 
+
 ## Programming Languages
 
 Favorite:
@@ -20,30 +21,28 @@ Favorite:
 
 I also do other IT languages, not limited to programming (SQL, JavaScript) and even have advanced knowledge HTML+CSS.
 
-I prefer GIT for versioning, especially from console ([Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on linux, [Git Bash](https://gitforwindows.org/) on Windows).
+I prefer GIT for versioning, especially from console ([Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on linux, [Git Bash](https://gitforwindows.org/) on Windows) and GUI in [JetBrains](https://www.jetbrains.com/)' tools.
 
-I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) (not paid promotion).
+I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) and I really like it! (not paid promotion)
 
 
-## Personal Projects
-- [AWEngine](https://github.com/graymadness/AWEngine) - C++20 3D [Vulkan](https://www.khronos.org/vulkan/) Game Engine
-- [Voxelite](https://github.com/voxelite/Voxelite) - 3D Voxel Customizable Game (Server-side mods)
-- [Decay](https://github.com/AbitTheGray/Decay-Library) / [BspLib](https://github.com/AbitTheGray/BspLib) - GoldSrc (Half-Life, Counter-Strike 1.6) File (Map, Textures...) Parser
-- SoulEater - [Souls](https://en.wikipedia.org/wiki/Souls_(series))-like combat with customizable content
+### TODO List
 
-Ordered by priority.
+There used to be more bullet points with "deadlines" but lately I am running out of time so they were meaningless.
+And with so little time, I fail to get the motivation to work on those projects alone.
 
-As you can see, I like user-generated content.
-I have no released games as I enjoy prototyping.
-
-### Roadmap
-
-|  Deadline  | Project  | Description |
-|:-----------|----------|-------------|
-| 2020-11    | Mobile Game | Prototype a mobile game
-| 2020-12    | AWEngine | 3D renderer
-| 2021-01    | AWEngine | 2D renderer
-| 2021-03    | Voxelite | Connect to AWEngine, render 3D world
-| 2021-04    | Voxelite | Entities + animations
-| 2021-05    | Voxelite | Multiplayer
-| 2021-06    | Voxelite | JavaScript prototype
+- Mobile game prototype using [Unity3D](https://unity.com/) 
+  - Will be streaming if I get better internet
+- [AWEngine](https://github.com/graymadness/AWEngine)'s Vulkan Renderer
+  - Own Low-level C++ Game Engine
+- [Voxelite](https://github.com/voxelite/Voxelite)
+  - 3D Voxel Customizable Game (Server-side mods)
+- SoulEater draft using [Unreal engine](https://www.unrealengine.com/)
+  - [Souls](https://en.wikipedia.org/wiki/Souls_(series))-like combat with customizable content
+  - Parser for [Dark Souls 1](https://en.wikipedia.org/wiki/Dark_Souls) map and character models
+- [Unity3D](https://unity.com/) Chess
+  - Custom script bundle
+  - Probably with simple AI (will need research first)
+- [Decay](https://github.com/AbitTheGray/Decay-Library) - GoldSrc (Half-Life, Counter-Strike 1.6) File (Map, Textures...) Parser
+  - Remake of [BspLib](https://github.com/AbitTheGray/BspLib) with addition
+  - Will probably be extended by JavaScript version
