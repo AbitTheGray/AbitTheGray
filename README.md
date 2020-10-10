@@ -34,7 +34,7 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) an
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
 
 
-### TODO List
+## TODO List
 
 There used to be more bullet points with "deadlines" but lately I am running out of time so they were meaningless.
 And with so little time, I fail to get the motivation to work on those projects alone.
