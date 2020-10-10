@@ -26,6 +26,14 @@ I prefer GIT for versioning, especially from console ([Bash](https://en.wikipedi
 I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) and I really like it! (not paid promotion)
 
 
+## Templates
+
+- [C++](https://github.com/AbitTheGray/Cpp-Template)
+- [C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)
+
+Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
+
+
 ### TODO List
 
 There used to be more bullet points with "deadlines" but lately I am running out of time so they were meaningless.
