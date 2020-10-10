@@ -34,6 +34,13 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) an
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
 
 
+## Fizz-Buzz
+Based on [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) game, those are my language showcase projects.
+
+- [C++](https://github.com/AbitTheGray/Fizz-Buzz-cpp)
+- [C#](https://github.com/AbitTheGray/Fizz-Buzz)
+
+
 ## TODO List
 
 There used to be more bullet points with "deadlines" but lately I am running out of time so they were meaningless.
