@@ -30,6 +30,7 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) my
 
 - [C++](https://github.com/AbitTheGray/Cpp-Template)
 - [C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)
+- [C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)
 
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
 
