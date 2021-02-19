@@ -20,6 +20,7 @@ Favorite:
 - C# [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3), [.NET 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.8) + [.NET Core](https://en.wikipedia.org/wiki/.NET_Core)
 
 I also do other IT languages, not limited to programming (SQL, JavaScript) and even have advanced knowledge HTML+CSS.
+Currently using Delphi and T-SQL at work but use C++ (and sometimes C#) at my free time.
 
 I prefer GIT for versioning, especially from [JetBrains](https://www.jetbrains.com/)' GUI and console ([Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on linux, [Git Bash](https://gitforwindows.org/) on Windows).
 
@@ -29,7 +30,7 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) my
 ## Templates
 
 - [C++](https://github.com/AbitTheGray/Cpp-Template)
-- [C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)
+- ~~[C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)~~
 - [C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)
 
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
@@ -51,24 +52,21 @@ Occasionally I fail to get the motivation to work some of those projects alone a
 - [AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer
   - Custom Low-level C++ Game Engine
   - Multiple components (parts) which may be used by output project
-- [Voxelite](https://github.com/voxelite/Voxelite)
-  - 3D Voxel Customizable Game (Server-side mods)
-- [Decay](https://github.com/AbitTheGray/Decay-Library) - GoldSrc (Half-Life, Counter-Strike 1.6) File (Map, Textures...) Parser
-  - Remake of [BspLib](https://github.com/AbitTheGray/BspLib) with addition
-  - Will probably be extended by JavaScript version (for web)
-- SoulEater draft using AWEngine
-  - Data from original game
-    - Only parse, not to provide the data = must own the game
-  - Render with AWEngine
-    - Will be perfect benchmark environment for the engine
-
+- EmberSky
+  - Voxel-base action game
+  - Client + Realm of servers
 
 Postponed until... unknown
 
-- SoulEater draft using [Unreal engine](https://www.unrealengine.com/)
-  - [Souls](https://en.wikipedia.org/wiki/Souls_(series))-like combat with customizable content
-  - Parser for [Dark Souls 1](https://en.wikipedia.org/wiki/Dark_Souls) map and character models
+- [Voxelite](https://github.com/voxelite/Voxelite)
+  - 3D Voxel Customizable Game (Server-side mods)
+- [Decay](https://github.com/AbitTheGray/Decay-Library)
+  - GoldSrc (Half-Life, Counter-Strike 1.6) File (Map, Textures...) Parser Library
+    - Remake of [BspLib](https://github.com/AbitTheGray/BspLib) with addition
+    - Will probably be extended by JavaScript version (for web)
+  - 
+- SoulEater draft using AWEngine
+  - Data from Dark Souls 1 (Remaster or PtD?)
     - Only parse, not to provide the data = must own the game
-- [Unity3D](https://unity.com/) Chess
-  - Custom script bundle (put on Asset Store for Free)
-  - Probably with simple AI (will need research first)
+  - Render with AWEngine
+    - Will be perfect benchmark environment for the engine
