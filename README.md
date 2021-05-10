@@ -10,16 +10,22 @@ Living in Prague, Czech Republic (Central Europe).
 ## Social Links
 
 - LinkedIn: https://www.linkedin.com/in/david-erben-6ba814164/
-- Website: https://www.graymadness.net/
+- Website: https://www.graymadness.net/ (Work-In-Progress)
 - Discord: https://discord.gg/ejShm4Z
 - Twitch: https://www.twitch.tv/graymadness
+
+
+## Dreams
+
+- Work as C++ Game Engine Programmer with some decision power (team leader?)
+- Lead development of `Alien vs Predator` game inspired by [Natural Selection 1](https://en.wikipedia.org/wiki/Natural_Selection_(video_game)) and [Quake 3 Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)
 
 
 ## Programming Languages
 
 Favorite:
-- Modern C++ ([C++20](https://en.cppreference.com/w/cpp/20))
-- C# [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3), [.NET 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.8) + [.NET Core](https://en.wikipedia.org/wiki/.NET_Core)
+- Modern C++ ([C++20](https://en.cppreference.com/w/cpp/20), just as new as possible)
+- C# [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3) / [8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8), [.NET 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.8) + [.NET Core](https://en.wikipedia.org/wiki/.NET_Core)
 
 I also do other IT languages, not limited to programming (SQL, JavaScript) and even have advanced knowledge HTML+CSS.
 Using Delphi and T-SQL at work but use C++ (and sometimes C#) at my free time.
@@ -51,7 +57,7 @@ Based on [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) game, those are my
 There used to be more bullet points with "deadlines" but lately I am running out of time.
 Therefore, I went through the list and cleared it.
 
-- [AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer
+### [AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer
   - Custom Low-level C++ Game Engine
     - Designed to provide platform-independent API which can be bended to developer's will
   - Multiple components (parts) which may be used by output project
@@ -59,14 +65,23 @@ Therefore, I went through the list and cleared it.
   - *This is my "pet project" as I can work on any part of it at any time*
     - I also use it as a sandbox when tinkering / drafting mechanism for EmberSky
 
-- EmberSky
+### Yautja Cosplay
+  - [Arduino](https://www.arduino.cc/) / [ESP32](https://www.espressif.com/en/products/socs/esp32)
+  - 3D print + Clay + Silicone
+  - Servo Animatronics
+
+### EmberSky
   - Voxel-base action game
   - Client + Realm of servers
   - *I do the server side of the project (and low-level drafts)*
 
+
+## TODO List (Postponed) + Ideas
 Postponed until... unknown
 
-- [Decay](https://github.com/AbitTheGray/Decay-Library)
+This is just a list to take projects from as the one above gets empty (hopefully).
+
+### [Decay](https://github.com/AbitTheGray/Decay-Library)
   - GoldSrc (`Half-Life`, `Counter-Strike 1.6`) File (Map, Textures...) Parser Library
     - Remake of [BspLib](https://github.com/AbitTheGray/BspLib) with addition
     - May be extended by JavaScript version (for web usage)
@@ -74,23 +89,32 @@ Postponed until... unknown
     - Use AWEngine to emulate (maybe even improve upon) `GoldSrc` engine
     - Probably not compatible with `Half-Life Deathmatch` and `Counter-Strike 1.6` but hopefully with working multiplayer
 
-- BSP Map Parser
+### BSP Map Parser
   - Inspired by `Wolfenstein 3D`, `DOOM` and `Duke Nukem 3D`
   - Do more research into BSP login (also used in `Quake` and `GoldSrc`)
   - Somewhat parent project to `Decay Library`
   - May help with remastering those games
 
-- SoulEater draft using AWEngine
+### SoulEater draft using AWEngine
   - Load data from Dark Souls 1 (Remaster or PtD?), Dark Souls 2 (SotFS) and Dark Souls 3
     - Only parse, not to provide the data = must own the game
   - Render with AWEngine
     - Will be perfect benchmark environment for the engine
       - "modern" PBO-like environment + gameplay
       - 3 different ages
-  - Use same controls (user input + responsiveness) for all 3 Souls games
+  - Use same controls (user input + responsiveness) for all 3 Souls games = smoth
 
-- [Voxelite](https://github.com/voxelite/Voxelite)
+### [Voxelite](https://github.com/voxelite/Voxelite)
   - 3D Voxel Customizable Game (Server-side mods)
   - I consider this project dead
     - Some ideas are re-used in Ember Sky
     - It was mainly learning project
+
+### AvP Resettlement
+  - Aliens, Marines, Predators
+  - Big maps with AI characters (humans and aliens)
+  - Inspired by
+    - [Natural Selection 1](https://en.wikipedia.org/wiki/Natural_Selection_(video_game))
+      - Xenomorph Queen able to switch to top-view to mark "points of interest"
+  - Fast paced action
+  - Custom character equipment and appearance
