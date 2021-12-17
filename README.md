@@ -7,18 +7,17 @@ I am full-time software programmer and free-time game prototype and engine progr
 Living in Prague, Czech Republic (Central Europe).
 
 
+I know too much to be an optimist and I got burned too often to be a realist. So I became pesimist and now I do not get many burns anymore.
+
+I am lazy, I will do more work now so I can do less later.
+
+
 ## Social Links
 
 - LinkedIn: https://www.linkedin.com/in/david-erben-6ba814164/
 - Website: https://www.graymadness.net/ (Work-In-Progress)
 - Discord: https://discord.gg/ejShm4Z
 - Twitch: https://www.twitch.tv/graymadness
-
-
-## Dreams
-
-- ~~Work as C++ Game Engine Programmer with some decision power (team leader?)~~
-- ~~Lead development of `Alien vs Predator` game inspired by [Natural Selection 1](https://en.wikipedia.org/wiki/Natural_Selection_(video_game)) and [Quake 3 Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)~~ (see `AvP Resettlement` in TODO list)
 
 
 ## Programming Languages
@@ -30,10 +29,10 @@ Favorite:
 - C# [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3) / [8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8), [.NET 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.8) + [.NET Core](https://en.wikipedia.org/wiki/.NET_Core)
   - `Rider` by JetBrains as IDE
     - `VisualStudio` by Microsoft (with `ReSharper` by JetBrains) is also an option
-    - `MonoDevelop` used to be good but...
+    - `MonoDevelop` used to be good but no more
 
 I also do other IT languages, not limited to programming (SQL, ~~JavaScript~~) and even have advanced knowledge HTML+CSS.
-Using Delphi and T-SQL at work but use C++ (and sometimes C#) during my free time.
+Using T-SQL, C# and Delphi at work but use mostly C++20 during my free time.
 
 I prefer GIT for versioning, especially from [JetBrains](https://www.jetbrains.com/)' GUI or command line ([Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on linux, [Git Bash](https://gitforwindows.org/) on Windows).
 
@@ -44,7 +43,7 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) my
 
 - [C++](https://github.com/AbitTheGray/Cpp-Template)
 - ~~[C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)~~
-- [C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)
+- ~~[C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)~~
 
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
 They contain basic CMake project structure and Github Actions (Linux + Windows).
@@ -64,6 +63,18 @@ Therefore, I went through the list and cleared it.
 
 Most of those links will not work - repositories are private until some meaningful progress is made.
 
+### [Decay](https://github.com/AbitTheGray/Decay)
+  - Vulkan-based re-creation of `GoldSrc` engine
+    - GoldSrc (`Half-Life`, `Counter-Strike 1.6`) Game and GameModes support
+  - LUA scripting
+  - Custom modern networking protocol using [AWEngine_Packet](https://github.com/graymadness/AWEngine_Packet)
+
+
+## TODO List (Postponed) + Ideas
+Postponed until... unknown
+
+This is just a list to take projects from as the one above gets empty (hopefully).
+
 ### [AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer
   - Custom Low-level C++ Game Engine
     - Designed to provide platform-independent API which can be bended to developer's will
@@ -81,20 +92,6 @@ Most of those links will not work - repositories are private until some meaningf
   - 3D Voxel Customizable Game (Server-side mods)
   - Revived!
   - *As AWEngine is my "engine pet project", this is my "game pet project"*
-
-
-## TODO List (Postponed) + Ideas
-Postponed until... unknown
-
-This is just a list to take projects from as the one above gets empty (hopefully).
-
-### [Decay](https://github.com/AbitTheGray/Decay-Library)
-  - GoldSrc (`Half-Life`, `Counter-Strike 1.6`) File (Map, Textures...) Parser Library
-    - Remake of [BspLib](https://github.com/AbitTheGray/BspLib) with addition
-    - May be extended by JavaScript version (for web usage)
-  - AWEngine "runtime"
-    - Use AWEngine to emulate (maybe even improve upon) `GoldSrc` engine
-    - Probably not compatible with `Half-Life Deathmatch` and `Counter-Strike 1.6` but hopefully with working multiplayer
 
 ### Yautja Cosplay
   - [Arduino](https://www.arduino.cc/) / [ESP32](https://www.espressif.com/en/products/socs/esp32) / [Teensy](https://www.pjrc.com/teensy/)
