@@ -2,14 +2,14 @@
 
 Welcome!
 
-I am full-time software programmer and free-time game prototype and engine programmer.
+I am full-time software programmer and hobby game prototype and engine programmer.
 
 Living in Prague, Czech Republic (Central Europe).
 
 
-I know too much to be an optimist and I got burned too often to be a realist. So I became pesimist and now I do not get many burns anymore.
+*I know too much to be an optimist and I got burned too often to be a realist. So I became pesimist and now I do not get many burns anymore.*
 
-I am lazy, I will do more work now so I can do less later.
+*I am lazy, I will do more work now so I can do less later.*
 
 
 ## Social Links
@@ -29,7 +29,7 @@ Favorite:
 - C# [7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3) / [8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8), [.NET 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history#.NET_Framework_4.8) + [.NET Core](https://en.wikipedia.org/wiki/.NET_Core)
   - `Rider` by JetBrains as IDE
     - `VisualStudio` by Microsoft (with `ReSharper` by JetBrains) is also an option
-    - `MonoDevelop` used to be good but no more
+    - `MonoDevelop` used to be good but is no longer usable (also known as XamarinStudio)
 
 I also do other IT languages, not limited to programming (SQL, ~~JavaScript~~) and even have advanced knowledge HTML+CSS.
 Using T-SQL, C# and Delphi at work but use mostly C++20 during my free time.
@@ -42,18 +42,11 @@ I am paying for [JetBrains All Products Pack](https://www.jetbrains.com/all/) my
 ## Templates
 
 - [C++](https://github.com/AbitTheGray/Cpp-Template)
-- ~~[C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)~~
-- ~~[C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)~~
+- ~~[C++ with LUA scripting](https://github.com/AbitTheGray/Cpp-LUA-Template)~~ - No longer maintained
+- ~~[C++ with Vulkan API](https://github.com/AbitTheGray/Cpp-Vulkan-Template)~~ - No longer maintained
 
 Those are my repository templates to simplify prototyping (and motivate me to separate projects into smaller parts).
 They contain basic CMake project structure and Github Actions (Linux + Windows).
-
-
-## Fizz-Buzz
-Based on [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) game, those are my language showcase projects.
-
-- [C++](https://github.com/AbitTheGray/Fizz-Buzz-cpp)
-- [C#](https://github.com/AbitTheGray/Fizz-Buzz)
 
 
 ## TODO List
@@ -66,8 +59,11 @@ Most of those links will not work - repositories are private until some meaningf
 ### [Decay](https://github.com/AbitTheGray/Decay)
   - Vulkan-based re-creation of `GoldSrc` engine
     - GoldSrc (`Half-Life`, `Counter-Strike 1.6`) Game and GameModes support
+    - Will re-use some code from cancelled [AWEngine](https://github.com/graymadness/AWEngine)
   - LUA scripting
-  - Custom modern networking protocol using [AWEngine_Packet](https://github.com/graymadness/AWEngine_Packet)
+  - ~~Custom modern networking protocol using [AWEngine_Packet](https://github.com/graymadness/AWEngine_Packet)~~
+    - Give a try to [yojimbo](https://github.com/networkprotocol/yojimbo)
+  - May get cancelled due to "implementation compromises" (as did AWEngine)
 
 
 ## TODO List (Postponed) + Ideas
@@ -75,7 +71,8 @@ Postponed until... unknown
 
 This is just a list to take projects from as the one above gets empty (hopefully).
 
-### [AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer
+### ~~[AWEngine](https://github.com/graymadness/AWEngine) with Vulkan Renderer~~
+  - **Cancelled due to implementation compromises**
   - Custom Low-level C++ Game Engine
     - Designed to provide platform-independent API which can be bended to developer's will
   - Multiple components (parts) which may be used by output project
@@ -88,7 +85,8 @@ This is just a list to take projects from as the one above gets empty (hopefully
   - Client + Realm of servers
   - *I do the server side of the project, low-level drafts and part of the core library*
 
-### [Voxelite](https://github.com/voxelite/Voxelite)
+### ~~[Voxelite](https://github.com/voxelite/Voxelite)~~
+  - **Cancelled in favor of EmberSky**
   - 3D Voxel Customizable Game (Server-side mods)
   - Revived!
   - *As AWEngine is my "engine pet project", this is my "game pet project"*
@@ -105,7 +103,8 @@ This is just a list to take projects from as the one above gets empty (hopefully
   - Somewhat parent project to `Decay Library`
   - May help with remastering those games
 
-### SoulEater draft using AWEngine
+### ~~SoulEater draft using AWEngine~~
+  - **Cancelled due to AWEngine being Cancelled**
   - Load data from Dark Souls 1 (Remaster or PtD?), Dark Souls 2 (SotFS) and Dark Souls 3
     - Only parse, not to provide the data = must own the game
   - Render with AWEngine
@@ -115,7 +114,8 @@ This is just a list to take projects from as the one above gets empty (hopefully
     - Probably not the best engine
   - Use same controls (user input + responsiveness) for all 3 Souls games = smoth
 
-### AvP Resettlement
+### ~~AvP Resettlement~~
+  - **Cancelled due to AWEngine being cancelled** and expected legal issues
   - Aliens, Marines, Predators
   - Big maps with AI characters (humans and aliens)
   - Inspired by
