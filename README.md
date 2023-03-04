@@ -11,6 +11,9 @@ Living in Prague, Czech Republic (Central Europe).
 
 *I am lazy, I will do more work now so I can do less later.*
 
+## Sub-pages
+- [Projects](Projects.md) (in-progress, planned...)
+
 
 ## Social Links
 
