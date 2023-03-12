@@ -31,4 +31,6 @@ Nothing major yet.
 - Roengenium 2 - "Source variant of Roengenium" (different path of GoldSrc evolution, similar to [Source](https://developer.valvesoftware.com/wiki/Source) engine)
 - Dark Souls unifying engine (back-to-back Dark Souls 1+2+3, custom weapons/armor/enemies/bosses)
 - Laser Tag with ESP32 and Raspberry Pi (WiFi AP and game master)
-- RC Radio using ESP32 - outputs (RC servos) and inputs (sensors)
+- RC controller (vehicle side) using ESP32 - outputs (RC servos) and inputs (sensors)
+- Car Radio - audio playback (USB / SD Card), BLE controls, Bluetooth speaker, WiFi device for internet radio
+- PC PowerDelivery USB-C - Front panel USB-C HUB with Power Delivery (using PC PSU)
