@@ -18,6 +18,7 @@ Nothing major yet.
 
 - [ESP32 RC receiver](https://github.com/AbitTheGray/RC_Receiver) (vehicle side) - 16 PWM outputs (50Hz = RC servos) and I2C (QWIIC)
 - [USB PowerDelivery DevKit](https://github.com/AbitTheGray/USB_PD_DevKit) - ESP32-S3, USB OTG, up to 24V input, Power Delivery sink
+- [USB NumPad](https://github.com/AbitTheGray/USB_NumPad) - ESP32 NumPad Keyboard (USB-C or Bluetooth)
 
 ## Postponed
 
